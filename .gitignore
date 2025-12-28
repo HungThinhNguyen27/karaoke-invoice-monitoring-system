@@ -1,0 +1,39 @@
+# ======================
+# Python
+# ======================
+ocr/__pycache__
+processor/__pycache__
+telegram_bot/__pycache__
+utils/__pycache__
+watcher/__pycache__
+config.py
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ======================
+# Virtual Environment
+# ======================
+venv/
+.env/
+.venv/
+
+# ======================
+# OS / Editor
+# ======================
+.DS_Store
+.idea/
+.vscode/
+
+# ======================
+# Logs / Outputs
+# ======================
+*.log
+output_png/
+data_example/
+
+# ======================
+# Secrets
+# ======================
+config.py
